@@ -3,3 +3,5 @@ This is a new file
 Yep, an extra line too
 
 extra line two
+
+extra line three
